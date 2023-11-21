@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "password": "Password@1234",
+      "email": "katiaalhaj54@gmail.com",
+      "confirmPassword": "Password@1234",
+      "id": 2,
+      "name": "katia"
+    }
+  ],
+  "countries": [
+    {
+      "name": "katiak",
+      "description": "silvere",
+      "id": 1
+    }
+  ],
+  "cities": [
+    {
+      "name": "katia",
+      "description": "silver",
+      "id": 2
+    }
+  ]
+}
